@@ -28,7 +28,7 @@ const twoSum = (nums, target) => {
     return result[0]
 }
 
-// TESTS
+//
 console.log(twoSum([2, 7, 11, 15], 9));
 console.log(twoSum([3, 3], 6));
 console.log(twoSum([2, 5, 5, 11], 10));
